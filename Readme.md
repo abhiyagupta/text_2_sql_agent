@@ -80,8 +80,7 @@ The agent has access to 4 LangChain Community SQL tools that form its "hands":
 ---
 
 ## 🗄️ Database Schema
-
-![assets](schema.png) 
+![Database Schema](assets/schema.png)
 
 
 
@@ -113,7 +112,7 @@ Customer ──owns──▶ Account ◀──services── Branch
 ---
 
 ## visuaize graph
-![assets](graph.png)
+![LangGraph Workflow](assets/graph.png)
 
 
 ## 🔄 Agent Workflow (6-Step ReAct Loop)
