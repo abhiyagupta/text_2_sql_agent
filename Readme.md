@@ -81,7 +81,8 @@ The agent has access to 4 LangChain Community SQL tools that form its "hands":
 
 ## 🗄️ Database Schema
 
-![alt text](schema.png)
+![alt text](schema.png) 
+
 
 
 A pre-populated **SQLite** database (`banking_insights.db`) with 6 interconnected tables:
